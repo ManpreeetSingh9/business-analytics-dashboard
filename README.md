@@ -18,18 +18,17 @@ A **business-focused BI solution** that transforms raw customer and product data
 * 📦 **Product Performance**
 
 ------------------------------------------------------------------------
-
 ## 🎯 Business Objective
 
-* 📈 **Revenue Intelligence** — Identify top-performing customers, products, categories, and sales periods.
-* 📅 **Sales Trends** — Discover peak sales periods and identify the highest- and lowest-performing months.
-* 👥 **Customer Segmentation** — Measure revenue contribution across customer segments and identify the strongest-performing segments.
-* 🎯 **Age Group Analysis** — Understand which customer age groups contribute most and least to overall sales.
-* 🔄 **Customer Lifespan** — Analyze customer longevity to understand its relationship with customer value and business performance.
-* 🛒 **Product Intelligence** — Identify high-revenue and high-demand products across categories and subcategories.
-* 📊 **Performance Analysis** — Compare revenue, quantity sold, recency, spending, and customer value to uncover meaningful business patterns.
-* 🔍 **Interactive Insights** — Enable stakeholders to explore performance through dynamic filters, customer search, segmentation, and product-level analysis.
-* 💡 **Decision Support** — Transform raw transactional data into actionable insights for **revenue growth, customer strategy, product planning, and demand analysis**.
+* 📈 **Revenue Intelligence** — Identify top-performing customers, products, categories & sales periods.
+* 📅 **Sales Trends** — Discover peak and low-performing months and revenue patterns.
+* 👥 **Customer Segmentation** — Measure revenue contribution across customer segments.
+* 🎯 **Age Group Analysis** — Identify age groups driving the highest and lowest sales.
+* 🔄 **Customer Lifespan** — Analyze how customer longevity relates to value and performance.
+* 🛒 **Product Intelligence** — Identify high-revenue and high-demand products across categories.
+* 📊 **Performance Analysis** — Compare revenue, demand, recency, spending & customer value.
+* 🔍 **Interactive Insights** — Explore customers, products, segments & performance through dynamic filters.
+* 💡 **Decision Support** — Convert transactional data into insights for **revenue growth, customer strategy & product planning**.
 
 
 ------------------------------------------------------------------------
