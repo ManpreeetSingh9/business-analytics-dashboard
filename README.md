@@ -41,18 +41,16 @@
 
 ## 📊 Key Business KPIs
 
-The customer dashboard provides an executive-level snapshot of customer
-performance:
+The Customer Analytics Dashboard delivers an **executive-level view of customer value, revenue, and purchasing behavior**.
 
--   **18.5K Total Customers**
--   **\$29.4M Total Sales**
--   **60.4K Units Sold**
--   **5 Average Customer Lifespan**
--   **\$911.7 Average Order Value**
--   **\$452.8 Average Monthly Spend**
+* 👥 **18.5K** — Total Customers
+* 💰 **$29.4M** — Total Revenue
+* 📦 **60.4K** — Units Sold
+* ⏳ **5 Years** — Average Customer Lifespan
+* 🧾 **$911.7** — Average Order Value
+* 💵 **$452.8** — Average Monthly Spend
 
-These KPIs provide a quick view of the overall customer base, revenue
-contribution, purchasing volume, and customer value.
+> **Business Insight:** These KPIs provide a concise view of **customer scale, revenue contribution, purchasing volume, and customer value**, enabling faster identification of high-value customer segments and growth opportunities.
 
 ## 🔎 Customer Analytics Covered
 
