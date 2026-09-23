@@ -19,7 +19,7 @@ A **business-focused BI solution** that transforms raw customer and product data
 
   ------------------------------------------------------------------------
 🏗️ Project Architecture
-![image alt]
+![image alt](https://github.com/ManpreeetSingh9/business-analytics-dashboard/blob/28eeea3846038cb9775bf99d343c9e221d5efb97/1_docs/Project_Architecture.png)
 ------------------------------------------------------------------------
 ## 🎯 Business Objective
 
