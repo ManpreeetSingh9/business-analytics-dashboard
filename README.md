@@ -17,6 +17,9 @@ A **business-focused BI solution** that transforms raw customer and product data
 * 👥 **Customer Intelligence**
 * 📦 **Product Performance**
 
+  ------------------------------------------------------------------------
+🏗️ Project Architecture
+![image alt]
 ------------------------------------------------------------------------
 ## 🎯 Business Objective
 
