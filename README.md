@@ -91,46 +91,24 @@ The Product Dashboard provides an **executive-level view of product performance,
 
 # 🧠 Advanced Analytics & Technical Implementation
 
-## SQL Data Transformation
+## 🗄️ SQL Data Transformation
 
--   Raw business data is **first transformed using SQL queries** before
-    being consumed by Power BI.
--   SQL is used as the initial analytical layer to prepare
-    business-ready data.
--   Transformation focuses on creating meaningful analytical attributes
-    and aggregated business metrics.
--   This approach separates **data preparation from visualization**,
-    creating a more structured BI workflow.
+* Transformed **raw business data into analysis-ready datasets** using SQL.
+* Created **analytical attributes and aggregated business metrics**.
+* Established SQL as the **data preparation layer** before Power BI.
 
-## Power BI Data Modelling
+## 🔗 Power BI Data Modelling
 
--   Transformed data is brought into **Power BI** for analytical
-    modelling.
--   A structured data model is used to support relationships, filtering,
-    aggregation, and interactive analysis.
--   The model is designed to allow customer and product dimensions to be
-    analyzed from multiple business perspectives.
--   Data modelling enables consistent calculations across dashboard
-    visuals and filters.
+* Built a structured **data model** to support relationships, filtering, and aggregation.
+* Designed the model for **multi-dimensional customer and product analysis**.
+* Ensured consistent calculations across interactive dashboard views.
 
-## DAX & Advanced Measures
+## 📐 DAX & Advanced Measures
 
--   The dashboard uses **DAX measures** rather than relying only on
-    basic visual aggregations.
--   Measures support business-focused calculations such as:
-    -   Total Sales
-    -   Total Quantity Sold
-    -   Total Orders
-    -   Customer Counts
-    -   Average Order Value
-    -   Average Monthly Spend
-    -   Average Selling Price
-    -   Average Monthly Revenue
-    -   Running Total Sales
--   Running-total analysis is used to evaluate **cumulative sales
-    progression over time**.
--   Measures allow the dashboard to dynamically respond to filters and
-    user selections.
+* Developed **DAX measures** for business-focused KPIs and dynamic analysis.
+* Implemented metrics including **Sales, Quantity, Orders, Customers, AOV, Monthly Spend, ASP, and Monthly Revenue**.
+* Applied **running-total analysis** to track cumulative revenue progression over time.
+* Built filter-responsive measures for **interactive business analysis**.
 
 ------------------------------------------------------------------------
 
