@@ -163,23 +163,12 @@ The dashboard is designed to answer questions such as:
 
 # 🛠️ Technology Stack
 
-  -----------------------------------------------------------------------
-  Technology                          Purpose
-  ----------------------------------- -----------------------------------
-  **SQL**                             Data transformation, preparation,
-                                      aggregation, and analytical data
-                                      creation
+| Technology   | Purpose                                                             |
+| ------------ | ------------------------------------------------------------------- |
+| **SQL**      | Data transformation, preparation, aggregation & analytical datasets |
+| **Power BI** | Data modelling, interactive dashboards & business visualization     |
+| **DAX**      | Advanced measures, KPIs, dynamic calculations & running totals      |
 
-  **Power BI**                        Data modelling, dashboard
-                                      development, interactive
-                                      visualization
-
-  **DAX**                             Advanced measures, KPIs, dynamic
-                                      calculations, and running-total
-                                      analysis
-
-  **Power BI Filters/Slicers**        Interactive business analysis
-  -----------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
