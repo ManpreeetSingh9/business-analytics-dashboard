@@ -24,19 +24,16 @@
 
 ## 🎯 Business Objective
 
--   Convert transactional-level data into **high-level business
-    intelligence** that can support data-driven decisions.
--   Identify the **customers, products, categories, and periods
-    contributing most to revenue**.
--   Understand customer behaviour through **segmentation, recency,
-    purchasing value, and spending patterns**.
--   Evaluate product performance using **sales, quantity sold, product
-    segments, categories, and subcategories**.
--   Identify high-performing products and areas of demand that can
-    support **sales planning, inventory decisions, customer strategy,
-    and revenue optimization**.
--   Provide an interactive analytical layer where users can drill into
-    business performance using filters and customer/product selections.
+* 📈 **Revenue Intelligence** — Identify top-performing customers, products, categories, and sales periods.
+* 📅 **Sales Trends** — Discover peak sales periods and identify the highest- and lowest-performing months.
+* 👥 **Customer Segmentation** — Measure revenue contribution across customer segments and identify the strongest-performing segments.
+* 🎯 **Age Group Analysis** — Understand which customer age groups contribute most and least to overall sales.
+* 🔄 **Customer Lifespan** — Analyze customer longevity to understand its relationship with customer value and business performance.
+* 🛒 **Product Intelligence** — Identify high-revenue and high-demand products across categories and subcategories.
+* 📊 **Performance Analysis** — Compare revenue, quantity sold, recency, spending, and customer value to uncover meaningful business patterns.
+* 🔍 **Interactive Insights** — Enable stakeholders to explore performance through dynamic filters, customer search, segmentation, and product-level analysis.
+* 💡 **Decision Support** — Transform raw transactional data into actionable insights for **revenue growth, customer strategy, product planning, and demand analysis**.
+
 
 ------------------------------------------------------------------------
 
