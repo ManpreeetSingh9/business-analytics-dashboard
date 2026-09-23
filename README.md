@@ -3,22 +3,19 @@
 
 ## 📌 Project Overview
 
--   **Business-focused analytical dashboard** built to transform raw
-    customer and product data into actionable business insights.
--   The project follows a complete **data preparation → transformation →
-    modelling → analytics → visualization** workflow.
--   Raw data is **first transformed and prepared using SQL queries**,
-    including business-oriented aggregations and analytical
-    calculations.
--   The transformed data is then imported into **Power BI** for data
-    modelling, advanced DAX measures, interactive analysis, and
-    visualization.
--   Designed with a **management and decision-making perspective**,
-    focusing on the questions businesses typically ask about customers,
-    sales, products, demand, and performance.
--   The dashboard is divided into two analytical views:
-    -   **Customer Intelligence Dashboard**
-    -   **Product Performance Dashboard**
+A **business-focused BI solution** that transforms raw customer and product data into **interactive, decision-ready insights**.
+
+**Workflow:** `SQL → Transformation → Data Modelling → DAX → Analytics → Power BI`
+
+* 🗄️ **SQL** — Prepares, transforms & aggregates raw business data.
+* 📊 **Power BI** — Models data and delivers interactive analytics.
+* 📐 **DAX** — Creates advanced KPIs, dynamic measures & time-based analysis.
+* 🎯 **Business Focus** — Analyzes revenue, customers, products, demand & performance.
+
+### 🔍 Dashboard Views
+
+* 👥 **Customer Intelligence**
+* 📦 **Product Performance**
 
 ------------------------------------------------------------------------
 
