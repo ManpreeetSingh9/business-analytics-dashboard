@@ -233,47 +233,26 @@ Business-Analytics-Dashboard/
 
 ------------------------------------------------------------------------
 
-# 📌 Recruiter Snapshot
 
-> **A complete SQL + Power BI Business Intelligence project
-> demonstrating the ability to transform raw data into decision-ready
-> insights. The project combines SQL-based data transformation, Power BI
-> data modelling, DAX measures, KPI development, customer intelligence,
-> product analytics, and interactive visualization to answer practical
-> business questions around revenue, customer value, product
-> performance, demand, and growth trends.**
 
-### What this project demonstrates
+### What This Project Demonstrates
 
--   **Not just visualization:** data is transformed and prepared using
-    SQL before visualization.
--   **Not just basic Power BI:** the dashboard incorporates **data
-    modelling and DAX measures** for advanced analytics.
--   **Business-first thinking:** metrics and visuals are designed around
-    questions relevant to revenue, customers, products, and performance.
--   **Analytical depth:** combines revenue-based, quantity-based,
-    customer-based, segmentation, and time-based analysis.
--   **Decision-oriented output:** converts raw data into concise
-    insights that can help stakeholders understand business performance
-    and identify areas requiring attention.
+* 🔄 **End-to-End BI:** SQL → Data Modelling → DAX → Power BI
+* 📈 **Trend Analysis:** Identifies sales trends, peak months & revenue growth.
+* 👥 **Customer Insights:** Analyzes age groups, segments, recency & lifespan.
+* 📦 **Product Insights:** Highlights top products, categories & product segments.
+* 🎯 **Business-First Analytics:** Connects data to real revenue, customer & product questions.
+* 💡 **Decision-Ready Insights:** Converts raw data into clear, interactive business intelligence.
 
 ------------------------------------------------------------------------
 
 ## 📄 Dashboard Preview
 
-The project includes both **Customer Intelligence** and **Product
-Performance** dashboards, covering approximately **\$29.4M in sales**,
-**60.4K units sold**, and thousands of customers/orders across the
-analyzed dataset. fileciteturn0file0
+Explore **Customer Intelligence** and **Product Performance** dashboards built on **$29.4M+ in sales, 60.4K+ units sold, and thousands of customers & orders**.
 
 ------------------------------------------------------------------------
-
 ## ⭐ Project Focus
 
-**SQL → Data Transformation → Data Modelling → DAX → Advanced Analytics
-→ Power BI → Business Insights**
+**SQL → Transformation → Data Modelling → DAX → Advanced Analytics → Power BI → Business Insights**
 
-This project demonstrates an end-to-end approach to **Business
-Intelligence and Data Analytics**, with emphasis on turning business
-data into actionable information rather than simply creating visual
-reports.
+An end-to-end **Business Intelligence project** focused on transforming raw data into **interactive, decision-ready insights**.
