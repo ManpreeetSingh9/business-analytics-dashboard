@@ -50,46 +50,17 @@ The Customer Analytics Dashboard delivers an **executive-level view of customer 
 * 🧾 **$911.7** — Average Order Value
 * 💵 **$452.8** — Average Monthly Spend
 
-> **Business Insight:** These KPIs provide a concise view of **customer scale, revenue contribution, purchasing volume, and customer value**, enabling faster identification of high-value customer segments and growth opportunities.
 
-## 🔎 Customer Analytics Covered
+## 📊 Customer Analytics Covered
 
--   **Sales by Age Group**
-    -   Analyzes revenue contribution across different customer age
-        groups.
-    -   Helps identify customer demographics associated with higher
-        sales.
--   **Sales by Customer Segment**
-    -   Compares revenue contribution from:
-        -   New Customers
-        -   Regular Customers
-        -   VIP Customers
-    -   Provides visibility into the revenue mix of different customer
-        segments.
--   **Recency Distribution**
-    -   Examines the distribution of customers based on recency.
-    -   Helps identify customer activity patterns and potential
-        opportunities for customer re-engagement.
--   **Top 5 Value Customers**
-    -   Highlights the highest-value customers using **sales and
-        quantity-based analysis**.
-    -   Helps identify customers with significant commercial
-        contribution.
--   **Monthly Sales Distribution**
-    -   Shows how sales are distributed throughout the year.
-    -   Helps identify periods of stronger and weaker revenue
-        performance.
--   **Sales Over Time**
-    -   Uses a **running-total analysis** to understand cumulative
-        revenue progression across years.
-    -   Supports trend analysis and long-term performance evaluation.
--   **Interactive Customer Analysis**
-    -   Enables filtering by:
-        -   Customer Segment
-        -   Age Group
-        -   Recency
-        -   Lifespan
-        -   Customer Search
+* **Sales by Age Group** — Identifies demographics driving higher revenue.
+* **Sales by Customer Segment** — Analyzes revenue contribution across **New, Regular, and VIP** customers.
+* **Recency Distribution** — Reveals customer activity patterns and re-engagement opportunities.
+* **Top 5 Value Customers** — Highlights high-value customers using **sales and quantity analysis**.
+* **Monthly Sales Distribution** — Identifies seasonal patterns and revenue fluctuations.
+* **Sales Over Time** — Tracks **cumulative revenue growth** through running-total analysis.
+* **Interactive Customer Analysis** — Enables dynamic filtering by **segment, age, recency, lifespan, and customer**.
+
 
 ------------------------------------------------------------------------
 
