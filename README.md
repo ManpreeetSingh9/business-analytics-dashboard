@@ -68,49 +68,24 @@ The Customer Analytics Dashboard delivers an **executive-level view of customer 
 
 ## 📊 Key Business KPIs
 
-The product dashboard provides a high-level view of product and sales
-performance:
+The Product Dashboard provides an **executive-level view of product performance, demand, and revenue contribution**.
 
--   **\$29.4M Total Sales**
--   **60.4K Total Quantity Sold**
--   **27.7K Total Orders**
--   **18K Total Customers**
--   **\$1.09K Average Selling Price**
--   **\$14.8K Average Monthly Revenue**
+* 💰 **$29.4M** — Total Revenue
+* 📦 **60.4K** — Units Sold
+* 🧾 **27.7K** — Total Orders
+* 👥 **18K** — Customers
+* 💵 **$1.09K** — Average Selling Price
+* 📈 **$14.8K** — Average Monthly Revenue
 
 ## 🔎 Product Analytics Covered
 
--   **Sales by Subcategory**
-    -   Identifies which product subcategories contribute most to total
-        revenue.
-    -   Enables comparison of major revenue-generating product groups.
--   **Sales by Category**
-    -   Provides a category-level view of revenue performance.
-    -   Helps understand the overall contribution of major product
-        categories such as Bikes, Accessories, and Clothing.
--   **Top 15 Products by Sales**
-    -   Identifies the highest-revenue products.
-    -   Helps highlight products with strong commercial performance.
--   **Product Sales by Year**
-    -   Tracks product revenue across years.
-    -   Helps analyze changes in product sales performance over time.
--   **Sales by Product Segment**
-    -   Compares products across:
-        -   High-Performer
-        -   Mid-Range
-        -   Low-Performer
-    -   Provides a portfolio-level view of product performance.
--   **Top Products in Demand**
-    -   Uses **quantity sold** to identify products with strong customer
-        demand.
-    -   Provides a different perspective from revenue-based product
-        rankings.
--   **Interactive Product Analysis**
-    -   Enables filtering by:
-        -   Category
-        -   Subcategory
-        -   Product Segment
-        -   Product Name
+* **Sales by Subcategory** — Identifies key subcategories driving revenue.
+* **Sales by Category** — Compares performance across major product categories.
+* **Top 15 Products by Sales** — Highlights the highest-revenue products.
+* **Product Sales by Year** — Tracks product revenue trends over time.
+* **Sales by Product Segment** — Compares **High, Mid, and Low-Performing** products.
+* **Top Products by Demand** — Uses **quantity sold** to identify high-demand products.
+* **Interactive Product Analysis** — Enables filtering by **category, subcategory, segment, and product**.
 
 ------------------------------------------------------------------------
 
